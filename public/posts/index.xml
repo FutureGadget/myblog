@@ -2,26 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on FutureGadget</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:1313/myblog/posts/</link>
     <description>Recent content in Posts on FutureGadget</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2025 00:57:33 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sat, 15 Feb 2025 00:57:33 +0900</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;subtitle: Hello World!
-Hi! This is my first post using Hugo + PaperMod!
-I am a software developer living in Seoul, South Korea.
-Welcome to my blog everyone!&lt;/p&gt;
-&lt;p&gt;Here is an inline equation: $E = mc^2$.&lt;/p&gt;
-&lt;p&gt;And a block equation:
-$$
-\int_{a}^{b} f(x) , dx = F(b) - F(a)
-$$&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/myblog/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
