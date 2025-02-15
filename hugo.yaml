@@ -1,0 +1,10 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: FutureGadget
+theme: ["PaperMod"]
+params:
+  math: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
